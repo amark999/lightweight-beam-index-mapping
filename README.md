@@ -2,7 +2,7 @@
 
 This repository contains the code for the paper:
 
-[1] A. Kasibovic, F. Weißer, B. Böck, and W. Utschick, “Lightweight Beam Index Map Using Coupled Gaussian Mixture Models,” in _2026 29th International Workshop on Smart Antennas (WSA)_, 2026.
+[1] A. Kasibovic, F. Weißer, and W. Utschick, “Lightweight Beam Index Map Using Coupled Gaussian Mixture Models,” in _2026 29th International Workshop on Smart Antennas (WSA)_, 2026.
 
 ## Running the code
 After cloning the repository, the code can be executed by running the `main.py` script manually or by running it in a Docker container.
